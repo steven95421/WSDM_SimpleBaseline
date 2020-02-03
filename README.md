@@ -1,4 +1,4 @@
-# WSDM 2019
+# WSDM 2020 2nd Place Solution
 #### Team name: SimpleBaseline
 * All codes were based on xiong's, first place of a similar competition few months ago.
 ### Members
